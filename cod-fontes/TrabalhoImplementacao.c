@@ -22,7 +22,7 @@ Finalize o desenvolvimento do programa anexo "trabalhoImplementacao.c" que proce
     |venda produto   | 15| 10 | 15 | 20 | 20 | ... |
     |venda quantidade| 2 |  1 |  1 |  5 |  5 | ... |
   
-  --> finalizar implementacao da funcao "armazenar_informacoes..."
+  --> finalizar implementacao da funcao "armazenar_informacoes.
 
 3. ao encerrar o movimento do dia, o programa deve chamar uma funcao que emite um relatorio de final de expediente, com as seguintes
   informacoes:
