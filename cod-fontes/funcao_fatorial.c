@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+
 
 processo(int numero){
 	int fatorial = 1;
